@@ -6,3 +6,4 @@ another function in master and in iss53
 Change by cp2 with parts from cp1
 
 
+Txibilis added some nice code to add
